@@ -1,0 +1,11 @@
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\bin\Debug\netcoreapp2.1\RestEndpoints.deps.json
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\bin\Debug\netcoreapp2.1\RestEndpoints.runtimeconfig.json
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\bin\Debug\netcoreapp2.1\RestEndpoints.runtimeconfig.dev.json
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\bin\Debug\netcoreapp2.1\RestEndpoints.dll
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\bin\Debug\netcoreapp2.1\RestEndpoints.pdb
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\obj\Debug\netcoreapp2.1\RestEndpoints.csproj.CoreCompileInputs.cache
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\obj\Debug\netcoreapp2.1\RestEndpoints.AssemblyInfoInputs.cache
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\obj\Debug\netcoreapp2.1\RestEndpoints.AssemblyInfo.cs
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\obj\Debug\netcoreapp2.1\RestEndpoints.dll
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\obj\Debug\netcoreapp2.1\RestEndpoints.pdb
+C:\Users\harsiddh.patel\Desktop\RestEndpoints\RestEndpoints\obj\Debug\netcoreapp2.1\RestEndpoints.csprojAssemblyReference.cache
